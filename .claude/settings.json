@@ -1,6 +1,0 @@
-{
-  "permissions": {
-    "allow": ["Bash(npx:*)", "Bash(npm install:*)"],
-    "deny": ["Bash(npm run dev)"]
-  }
-}
